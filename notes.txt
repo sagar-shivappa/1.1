@@ -1,0 +1,27 @@
+Types iof packagers
+
+Inbuilt package
+    eg: require('fs), http
+
+3rd party package
+    eg: axios
+    custom package
+
+
+To import a package we use require("package_name")
+To export module.exports={}
+
+File Operations:
+    https://nodejs.org/api/fs.html
+
+Middle ware concept, uses. -> Things to be done before hitting actual request
+
+For POST Request, the body needs to be parsed to JSON
+
+
+MONGO DB Connection information in index.js
+
+Mongo Docs
+https://www.mongodb.com/docs/manual/reference/method/
+
+Routing Concept to moduleraise
